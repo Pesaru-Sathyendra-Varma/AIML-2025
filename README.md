@@ -8,3 +8,4 @@
 1. [Lab 01](https://github.com/Pesaru-Sathyendra-Varma/AIML-2025/blob/main/Lab01_AIML.ipynb)
 2. [Lab 02](https://github.com/Pesaru-Sathyendra-Varma/AIML-2025/blob/main/Lab02_AIML.ipynb)
 3. [Lab 03](https://github.com/Pesaru-Sathyendra-Varma/AIML-2025/blob/main/Lab03_AIML.ipynb)
+4. [Lab 04](https://github.com/Pesaru-Sathyendra-Varma/AIML-2025/blob/main/LAB04_AIML.ipynb)
